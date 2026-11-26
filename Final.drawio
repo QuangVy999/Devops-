@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="OKYg2ldKFLJnevSTEZFQ">
-    <mxGraphModel dx="1414" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,16 +154,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JQWYzX19367ggsHQ2ac9-3" parent="teuuyU6wUw2I71F32X4Y-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;AWS Cognito&lt;/b&gt;" vertex="1">
+        <mxCell id="JQWYzX19367ggsHQ2ac9-3" parent="teuuyU6wUw2I71F32X4Y-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Amazon Cognito&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="102" x="348" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="JQWYzX19367ggsHQ2ac9-4" parent="teuuyU6wUw2I71F32X4Y-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;AWS DynamoDB&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="102" x="506" y="400" as="geometry" />
+        <mxCell id="JQWYzX19367ggsHQ2ac9-4" parent="teuuyU6wUw2I71F32X4Y-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Amazon DynamoDB&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="124" x="495" y="400" as="geometry" />
         </mxCell>
         <mxCell id="JQWYzX19367ggsHQ2ac9-6" parent="teuuyU6wUw2I71F32X4Y-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;AWS Lambda&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="102" x="348" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="JQWYzX19367ggsHQ2ac9-7" parent="teuuyU6wUw2I71F32X4Y-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;AWS S3&lt;/b&gt;" vertex="1">
+        <mxCell id="JQWYzX19367ggsHQ2ac9-7" parent="teuuyU6wUw2I71F32X4Y-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Amazon S3&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="102" x="506" y="560" as="geometry" />
         </mxCell>
         <mxCell id="teuuyU6wUw2I71F32X4Y-14" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1;labelPerimeter=1;" value="users" vertex="1">
