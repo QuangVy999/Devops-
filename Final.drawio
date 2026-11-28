@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="OKYg2ldKFLJnevSTEZFQ">
-    <mxGraphModel dx="5197" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3939" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RBRGrs9rwp_Jd25-Aguw-5" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=58;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="Kiến Trúc Hệ Thống Thư Viện Sách" vertex="1">
-          <mxGeometry height="78" width="1698.93" x="-767" y="780" as="geometry" />
+          <mxGeometry height="78" width="1698.93" x="-749.47" y="780" as="geometry" />
         </mxCell>
         <mxCell id="TAT1MFk5c-F7g2894WuG-9" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="118" width="185.5" x="360" y="1680" as="geometry" />
